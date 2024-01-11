@@ -27,7 +27,7 @@
 
 ## 参考にした web サイトなど
 
-  - Expo 公式
+  - Expo 公式チュートリアル
   https://docs.expo.dev/tutorial/introduction/
 
   - Expo Video
