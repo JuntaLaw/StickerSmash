@@ -1,5 +1,5 @@
-# ここにタイトルを入れる
-React-native Image / Video Upload App
+# React-native Image / Video Upload App
+
 
 ## DEMO
 
